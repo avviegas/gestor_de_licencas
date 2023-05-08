@@ -1,0 +1,1 @@
+<link href="<?php echo base_url("assets"); ?>/vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
